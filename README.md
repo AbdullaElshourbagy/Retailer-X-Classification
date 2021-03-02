@@ -1,4 +1,4 @@
-Project Introduction
+# Project Introduction
 Retailer X is boutique retailer with only one physical location. They believe that their niche in the market is attributable to their unique flair of affordable, everyday items, including health and beauty, electronics, specialty treats, and apparel.
 
 Their marketing is mostly word-of-mouth and a “surprise value” coupon that is sent to loyalty members, and an occasional coupon that is offered in support of local school fundraising efforts.
@@ -11,7 +11,7 @@ They want to know what factors are associated with increased levels of spending 
 
 They were shocked to learn that poorer than expected store experience scores were driven by the stores’ failure to have the appropriate amounts of stock on the shelves to meet the demands of their customers. They want to ensure that if they expand and experience increased demand for their products that they have the appropriate amount of stock on hand each day.
 
-Learning Objectives
+# Learning Objectives
 1- Types of supervised machine learning
 
 2- Classification algorithms
@@ -20,7 +20,7 @@ Learning Objectives
 
 4- Evaluating the performance of classification models
 
-Task Steps:
+# Task Steps:
 1- Importing data files into your code
 
 2- Adjusting data types and creating the customer view
